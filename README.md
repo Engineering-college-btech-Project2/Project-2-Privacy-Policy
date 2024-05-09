@@ -1,4 +1,4 @@
-**Privacy Policy**
+[**Privacy Policy**](http://freecadapp2.000.pe/login/policy.html?i=1)
 
 This privacy policy applies to the Project 2 app (hereby referred to as "Application") for mobile devices that was created by Akashdip Mahapatra (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
